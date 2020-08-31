@@ -1,0 +1,198 @@
+
+.pointer {
+    cursor: pointer;
+}
+
+.text-local-blue-flat {
+	color: #00468f !important;
+}
+.text-local-blue {
+	color: #00468f !important;
+}
+.text-local-blue:hover {
+	color: #595fa9 !important;
+}
+.text-local-aqua-flat {
+	color: #55c4cf !important;
+}
+.text-local-aqua {
+	color: #55c4cf !important;
+}
+.text-local-aqua:hover {
+	color: #50d4c8 !important;
+}
+.text-local-purple-flat {
+	color: #595fa9 !important;
+}
+.text-local-purple {
+	color: #595fa9 !important;
+}
+.text-local-purple:hover {
+	color: #a1aee2 !important;
+}
+.bg-masterhead {
+	min-height: 100vh;
+	min-width: 100vw;
+	background-attachment: fixed;
+	background-position: center;
+
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.btn-local-blue {
+	background: #55c4cf;
+	color: white;
+}
+.btn-local-blue:hover {
+	background: #00468f;
+	color: white;
+}
+.text-local-blue-flat {
+	color: #00468f !important;
+}
+.text-local-blue {
+	color: #00468f !important;
+}
+.text-local-blue:hover {
+	color: #595fa9 !important;
+}
+a {
+	color: #55c4cf;
+}
+a:hover {
+	color: #595fa9;
+}
+.shadow {
+	box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1) !important;
+}
+.purple {
+	color: #595fa9 !important;
+}
+.radius {
+	border-radius: 25px !important;
+}
+.radius-top {
+	border-top-right-radius: 25px;
+	border-top-left-radius: 25px;
+}
+.radius-top-left {
+	border-top-left-radius: 25px;	
+}
+.radius-bottom-left {	
+	border-bottom-left-radius: 25px;
+}
+.radius-left {
+	border-top-left-radius: 25px;
+	border-bottom-left-radius: 25px;
+}
+.radius-right {
+	border-top-right-radius: 25px;
+	border-bottom-right-radius: 25px;
+}
+.radius-top-right {
+	border-top-right-radius: 25px;
+}
+.radius-bottom-right {
+	border-bottom-right-radius: 25px;
+}
+.radius-bottom {
+	border-bottom-right-radius: 25px;
+	border-bottom-left-radius: 25px;
+}
+.menu-item:hover h4,
+.menu-item:hover i {
+	color: #50d4c8 !important;
+}
+.overlay {
+	position: fixed;
+	display: block;
+	width: 100vw;
+	height: 100vh;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-color: rgba(0, 0, 0, 0.7);
+	z-index: 2000;
+}
+.no-wrap {
+	white-space: nowrap;
+}
+.bg-dark-purple {
+	background: #55c4cf;
+}
+.bg-aqua {
+	background: #55c4cf;
+}
+.bg-dark-blue {
+	background: #00468f;
+}
+.bg-light-purple {
+	background: #c9c5dc;
+}
+.modal-content {
+	border-radius: 25px !important;
+}
+.btn {
+	padding-left: 1em;
+	padding-right: 1em;
+	padding-bottom: 0.5em;
+	padding-top: 0.5em;
+}
+.datatable-local {
+	border-radius: 25px !important;
+}
+.datatable-local thead {
+	background: #55c4cf;
+	text-align: center !important;
+}
+.datatable-local tbody {
+	background: white;
+	text-align: center !important;
+}
+.datatable-local th {
+	font-weight: 500;
+	color: white;
+	cursor: pointer;
+	width: auto;
+}
+.datatable-local th:active {
+	font-style: italic;
+}
+.datatable-local th:hover {
+	color: white;
+}
+.datatable-local th.selected {
+	font-style: italic;
+	font-weight: 900;
+}
+.datatable-local th.first {
+	border-top-left-radius: 25px;
+}
+.datatable-local th.last {
+	border-top-right-radius: 25px;
+}
+.datatable-local th.options {
+	cursor: default !important;
+}
+.datatable-local td.first {
+	border-bottom-left-radius: 25px;
+}
+.datatable-local td.last {
+	border-bottom-right-radius: 25px;
+}
+
+.en:hover {
+	color: white;
+}
+
+.con:hover {
+	color: white;
+}
+
+.linea:hover {
+	color: #ffe458;
+}
+.jesus:hover {
+	color: #96daff;
+}
